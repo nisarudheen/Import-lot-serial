@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+   <data>
+       <menuitem id="import_lot_menu"
+                 name="Import Lots/Serial" action="import_lot_action"
+                 parent="stock.menu_stock_inventory_control"/>
+   </data>
+</odoo>
